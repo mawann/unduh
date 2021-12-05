@@ -3,6 +3,7 @@
 Kegunaan   : Mengumumkan nilai hasil ujian yang bisa diunduh siswa.  
 Programmer : Mawan A. Nugroho.  
 Tanggal    : 22 Maret 2021.  
+Website    : https://www.mawan.net  
   
 Catatan:  
 File pengumuman harus berupa PDF.  
