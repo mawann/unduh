@@ -42,6 +42,8 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Mawan A. Nugroho">
 <title>Mengunduh Nilai Ujian</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 <style>
 .form-unduh {
