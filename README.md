@@ -3,8 +3,11 @@
 Kegunaan   : Mengumumkan nilai hasil ujian yang bisa diunduh siswa.  
 Programmer : Mawan A. Nugroho.  
 Tanggal    : 22 Maret 2021.  
-Website    : https://www.mawan.net  
-  
+
+Contoh     : https://www.mawan.net/unduh  
+NIS        : 111  
+Password   : 222  
+
 Catatan:  
 File pengumuman harus berupa PDF.  
 Format nama file: nis-password.pdf.  
